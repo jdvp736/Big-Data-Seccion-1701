@@ -1,0 +1,37 @@
+¿Qué datos genera? 
+Una plataforma de delivery como Uber Eats genera
+datos de distintos tipos, como información de usuarios (ubicación,
+historial y preferencias), datos de pedidos (productos, precios,
+horarios), geolocalización en tiempo real de los repartidores,
+transacciones de pago y datos de comportamiento dentro de la aplicación;
+todo esto en un volumen muy alto, ya que se producen miles o millones de
+registros diarios, y con una frecuencia continua en tiempo real, debido
+a que los datos se generan cada segundo conforme los usuarios
+interactúan con el sistema.
+
+¿Quién los usa? 
+Estos datos son utilizados por diversos actores, entre
+ellos la empresa, que los analiza para optimizar rutas, mejorar tiempos
+de entrega y aumentar su eficiencia; los repartidores, que los usan para
+recibir pedidos y navegar; los restaurantes, que gestionan sus ventas y
+pedidos; los usuarios, que reciben recomendaciones personalizadas; y
+también analistas e ingenieros de datos que procesan esta información
+para mejorar el funcionamiento general de la plataforma.
+
+¿Qué problema resuelve? 
+El análisis de estos datos permite resolver
+problemas importantes como la optimización logística, la reducción de
+tiempos de entrega y la personalización de la experiencia del usuario,
+lo que mejora significativamente el servicio, reduce costos operativos y
+aumenta los ingresos tanto para la empresa como para los restaurantes
+asociados.
+
+¿Por qué no bastaría Excel? 
+Excel no sería suficiente para manejar estos
+datos debido a su gran volumen, que supera los límites de una hoja de
+cálculo; la alta velocidad con la que se generan, ya que requieren
+procesamiento en tiempo real; la variedad de formatos (estructurados,
+semi-estructurados y no estructurados); y la complejidad del análisis,
+que implica el uso de algoritmos avanzados como machine learning y
+análisis predictivo, capacidades que Excel o una base de datos
+relacional simple no pueden manejar de manera eficiente.
